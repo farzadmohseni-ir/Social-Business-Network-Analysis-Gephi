@@ -1,0 +1,160 @@
+Id,Label,Type
+Expedition,Expedition,Model
+Durango,Durango,Model
+Eldorado,Eldorado,Model
+Celica,Celica,Model
+TL,TL,Model
+Diamante,Diamante,Model
+Corolla,Corolla,Model
+Galant,Galant,Model
+Malibu,Malibu,Model
+Escort,Escort,Model
+RL,RL,Model
+Pathfinder,Pathfinder,Model
+Grand Marquis,Grand Marquis,Model
+323i,323i,Model
+Sebring Coupe,Sebring Coupe,Model
+Forester,Forester,Model
+Accent,Accent,Model
+Land Cruiser,Land Cruiser,Model
+Accord,Accord,Model
+4Runner,4Runner,Model
+I30,I30,Model
+A4,A4,Model
+Carrera Cabrio,Carrera Cabrio,Model
+Jetta,Jetta,Model
+Viper,Viper,Model
+Regal,Regal,Model
+LHS,LHS,Model
+LW,LW,Model
+3000GT,3000GT,Model
+SLK230,SLK230,Model
+Civic,Civic,Model
+S-Type,S-Type,Model
+S40,S40,Model
+Mountaineer,Mountaineer,Model
+Park Avenue,Park Avenue,Model
+Montero Sport,Montero Sport,Model
+Sentra,Sentra,Model
+S80,S80,Model
+Lumina,Lumina,Model
+Bonneville,Bonneville,Model
+C-Class,C-Class,Model
+Altima,Altima,Model
+DeVille,DeVille,Model
+Stratus,Stratus,Model
+Cougar,Cougar,Model
+SW,SW,Model
+C70,C70,Model
+SLK,SLK,Model
+Tacoma,Tacoma,Model
+M-Class,M-Class,Model
+A6,A6,Model
+Intrepid,Intrepid,Model
+Sienna,Sienna,Model
+Eclipse,Eclipse,Model
+Contour,Contour,Model
+Town car,Town car,Model
+Focus,Focus,Model
+Mustang,Mustang,Model
+Cutlass,Cutlass,Model
+Corvette,Corvette,Model
+Impala,Impala,Model
+Cabrio,Cabrio,Model
+Dakota,Dakota,Model
+300M,300M,Model
+328i,328i,Model
+Bravada,Bravada,Model
+Maxima,Maxima,Model
+Ram Pickup,Ram Pickup,Model
+Concorde,Concorde,Model
+V70,V70,Model
+Quest,Quest,Model
+ES300,ES300,Model
+SL-Class,SL-Class,Model
+Explorer,Explorer,Model
+Prizm,Prizm,Model
+Camaro,Camaro,Model
+Outback,Outback,Model
+Taurus,Taurus,Model
+Cavalier,Cavalier,Model
+GS400,GS400,Model
+Monte Carlo,Monte Carlo,Model
+Sonata,Sonata,Model
+Sable,Sable,Model
+Metro,Metro,Model
+Voyager,Voyager,Model
+Cirrus,Cirrus,Model
+Avenger,Avenger,Model
+Odyssey,Odyssey,Model
+Intrigue,Intrigue,Model
+Silhouette,Silhouette,Model
+5-Sep,5-Sep,Model
+528i,528i,Model
+LS400,LS400,Model
+Aurora,Aurora,Model
+Breeze,Breeze,Model
+Beetle,Beetle,Model
+Elantra,Elantra,Model
+Continental,Continental,Model
+RAV4,RAV4,Model
+Villager,Villager,Model
+S70,S70,Model
+LS,LS,Model
+Ram Van,Ram Van,Model
+S-Class,S-Class,Model
+E-Class,E-Class,Model
+Grand Am,Grand Am,Model
+SC,SC,Model
+Passat,Passat,Model
+Xterra,Xterra,Model
+Frontier,Frontier,Model
+Crown Victoria,Crown Victoria,Model
+Camry,Camry,Model
+Navigator,Navigator,Model
+CL500,CL500,Model
+Escalade,Escalade,Model
+Golf,Golf,Model
+Ranger,Ranger,Model
+Prowler,Prowler,Model
+Windstar,Windstar,Model
+GTI,GTI,Model
+Passport,Passport,Model
+Boxter,Boxter,Model
+LX470,LX470,Model
+CR-V,CR-V,Model
+Sunfire,Sunfire,Model
+Caravan,Caravan,Model
+Ram Wagon,Ram Wagon,Model
+Neon,Neon,Model
+Wrangler,Wrangler,Model
+Integra,Integra,Model
+Grand Prix,Grand Prix,Model
+Grand Cherokee,Grand Cherokee,Model
+F-Series,F-Series,Model
+A8,A8,Model
+Mystique,Mystique,Model
+3-Sep,3-Sep,Model
+Cherokee,Cherokee,Model
+Carrera Coupe,Carrera Coupe,Model
+Catera,Catera,Model
+Seville,Seville,Model
+CLK Coupe,CLK Coupe,Model
+LeSabre,LeSabre,Model
+Sebring Conv.,Sebring Conv.,Model
+GS300,GS300,Model
+Firebird,Firebird,Model
+V40,V40,Model
+Montero,Montero,Model
+Town & Country,Town & Country,Model
+SL,SL,Model
+Alero,Alero,Model
+Mirage,Mirage,Model
+Century,Century,Model
+RX300,RX300,Model
+Avalon,Avalon,Model
+Very Low (0-50K),Very Low (0-50K),Income Group (0-50K)
+Low (50K-200K),Low (50K-200K),Income Group (50K-200K)
+Medium (200K-500K),Medium (200K-500K),Income Group (200K-500K)
+High (500K-1M),High (500K-1M),Income Group (500K-1M)
+Very High (>1M),Very High (>1M),Income Group (>1M)
