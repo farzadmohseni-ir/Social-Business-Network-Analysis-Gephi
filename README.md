@@ -52,8 +52,6 @@ We use it to:
 
 ---
 
-## 🖼️ Sample Visualizations
-
 ## 🖼️ Network Visualizations from All Projects
 
 <div align="center">
