@@ -54,6 +54,22 @@ We use it to:
 
 ## 🖼️ Sample Visualizations
 
+## 🖼️ Network Visualizations from All Projects
+
+<div align="center">
+  <img src="./1/1.png" width="270" alt="Project 1"/>
+  <img src="./2/2.png" width="270" alt="Project 2"/>
+  <img src="./3/3.png" width="270" alt="Project 3"/>
+  <img src="./4/4.png" width="270" alt="Project 4"/>
+  <img src="./5/5.png" width="270" alt="Project 5"/>
+  <img src="./6/6.png" width="270" alt="Project 6"/>
+  <img src="./7/7.png" width="270" alt="Project 7"/>
+  <img src="./8/8.png" width="270" alt="Project 8"/>
+  <img src="./9/9.png" width="270" alt="Project 9"/>
+  <img src="./10/10.png" width="270" alt="Project 10"/>
+</div>
+
+
 ### 🔹 Car Sales: Region vs Car Color
 
 <div align="center">
