@@ -1,0 +1,9 @@
+Id,Type
+Night,time
+Afternoon,time
+Evening,time
+Morning,time
+Midnight,time
+Other,payment
+Cash,payment
+Online,payment
