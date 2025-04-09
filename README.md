@@ -79,15 +79,6 @@ We use it to:
 
 ---
 
-### 🔹 Fashion Retail: Highly-Rated Product Network
-
-<div align="center">
-  <img src="./Dataset/a1/a1-ECDS7-FashionRetails/7-1.png" width="350"/>
-  <img src="./Dataset/a1/a1-ECDS7-FashionRetails/7-2.png" width="350"/>
-</div>
-
----
-
 ## 📌 How to Run the Analysis
 
 1. Download and install Gephi → [https://gephi.org](https://gephi.org)
